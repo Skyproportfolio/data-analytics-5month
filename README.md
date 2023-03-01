@@ -25,7 +25,7 @@
 </ol>
 
 
-> <a href="https://github.com/Skyproportfolio/data-analytics/blob/242649f63be48c763f3165413f84fa6b06c4c0a4/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%961.xlsx">Ссылка на проект</a>
+> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
 
 <br> 
 
@@ -70,7 +70,7 @@
 <p>Проект 5: Моделирование изменения балансов студентов</p> 
 <p>Что нужно было сделать:получить запрос, который собирает данные о балансах студентов за каждый прожитый ими день.<p>
 
-> <a href="https://github.com/Skyproportfolio/data-analytics/blob/main/Проект%2010.xlsx">Ссылка на проект</a>
+> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект</a>
 <br>
 
 
