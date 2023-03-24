@@ -28,6 +28,7 @@
 
 
 > <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
+  Ссылка должна содержать материалы, которые быстро раскроют суть вашего решения
 
 <p>Выводы (итоги):<p>
 <ol>
